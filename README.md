@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Tableau, Hadoop, IBM Cognos**
 
-- 👯 I’m looking to collaborate on **Data science projects**
+- 👯 I’m looking to collaborate on **Django projects**
 
 - 😄 Pronouns **She/Her**
 
