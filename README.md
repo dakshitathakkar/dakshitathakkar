@@ -26,4 +26,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dakshitathakkar&show_icons=true&locale=en" alt="dakshitathakkar" /></p>
 
-<p><img align="center" height = "180" src="https://github-readme-stats.vercel.app/api?username=dakshitathakkar&show_icons=true&locale=en" alt="dakshitathakkar" /></p>
+<!-- <p><img align="center" height = "180" src="https://github-readme-stats.vercel.app/api?username=dakshitathakkar&show_icons=true&locale=en" alt="dakshitathakkar" /></p> -->
