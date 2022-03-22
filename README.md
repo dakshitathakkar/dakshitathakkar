@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshitathakkar&label=Profile%20views&color=0e75b6&style=flat" alt="dakshitathakkar" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms**
+- 🌱 I’m currently learning **Big Data and Hadoop**
 
 - 👯 I’m looking to collaborate on **Django projects**
 
