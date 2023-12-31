@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Dakshita Thakkar</h1>
-<h3 align="center">An ardent learner and data enthusiast</h3>
+<h3 align="center">Learning, Coding, And shaping tech as an Associate Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshitathakkar&label=Profile%20views&color=0e75b6&style=flat" alt="dakshitathakkar" /> </p>
 
-- 🌱 I’m currently learning **Big Data and Hadoop**
+- 🌱 I’m currently working on **Spring boot technologies**
 
-- 👯 I’m looking to collaborate on **Django projects**
+- 👯 I’m looking to collaborate on **Building large-scale microservice based projects**
 
 - 😄 Pronouns **She/Her**
 
 - 👨‍💻 All of my projects are available on [https://github.com/dakshitathakkar?tab=repositories](https://github.com/dakshitathakkar?tab=repositories)
 
-- 📫 How to reach me **dakshita.thakkar_cs.da19@gla.ac.in**
+- 📫 How to reach me **dakshitathakkar14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
